@@ -1,0 +1,40 @@
+{
+  "project_name": "CareerPath AI",
+  "title": "From Career Confusion to the Right Next Step",
+  "problem_statement": "Education and Careers: From Aspiration to an Achievable Plan",
+  "challenge": "Women often receive generic course recommendations that ignore existing skills, career breaks, affordability, family responsibilities, confidence, accessibility and actual employment opportunities.",
+  "solution": "CareerPath AI is a context-aware GenAI career and learning navigator that helps women identify a realistic career destination, understand their transferable and missing skills, create an achievable learning plan, build employer-visible evidence and recover when they fall behind.",
+  "innovation": "Instead of starting with courses, CareerPath AI starts with the person. It considers existing strengths, experience, constraints, time, budget and career goals before generating a personalized path.",
+  "core_features": [
+    "Structured career assessment",
+    "Transferable skill identification",
+    "Career role recommendation",
+    "Skill-gap analysis",
+    "30/60/90-day roadmap",
+    "Adaptive weekly schedule",
+    "Budget-aware learning recommendations",
+    "Portfolio and proof-of-learning generation",
+    "Interview preparation",
+    "Career-break support",
+    "Recovery planning",
+    "AI-generated readiness indicator",
+    "24-hour next action"
+  ],
+  "success_moment": {
+    "before": "I want to restart my career, but I do not know where to begin.",
+    "after": [
+      "Realistic target role",
+      "Skill-gap map",
+      "Achievable learning schedule",
+      "Tangible first career action",
+      "Employer-ready evidence"
+    ]
+  },
+  "technology": [
+    "Amazon PartyRock",
+    "Generative AI",
+    "JSON structured data"
+  ],
+  "recommended_demo_persona": "Woman returning after a career break",
+  "sample_target_role": "Junior Business Analyst"
+}
